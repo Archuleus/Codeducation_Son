@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "37708355173",
+    "firebase_url": "https://codeducation-dee0d-default-rtdb.firebaseio.com",
+    "project_id": "codeducation-dee0d",
+    "storage_bucket": "codeducation-dee0d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:37708355173:android:ac1086012b6cdbfd4ed88c",
+        "android_client_info": {
+          "package_name": "com.example.codeducation"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrxjfO_bOuahF5wvFoFKYS0NNnDddH7kE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
